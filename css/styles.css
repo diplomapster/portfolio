@@ -2,14 +2,15 @@ body{
   background-color:
 }
 
-h1{
-  Color: Navy;
-}
 h2{
-  font-size: medium;
+  font-size: large;
+}
+
+#tagline{
+  color: navy;
 }
 
 #portrait{
-  height: 20%;
-  width: 20%;
+  height: 70%;
+  width: 70%;
 }
