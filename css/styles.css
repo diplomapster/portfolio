@@ -6,11 +6,29 @@ h2{
   font-size: large;
 }
 
+.jumbotron{
+  text-align: right;
+  background-image: url(https://desktopwalls.net/wp-content/uploads/2014/09/iOS%208%20Snow%20Forest%20Default%20Mac%20Desktop%20Wallpaper.jpg);
+  background-position: center;
+}
+
+.special{
+  Color: Navy;
+}
+
 #tagline{
   color: navy;
+  font-weight: 200;
+  text-decoration: underline;
 }
 
 #portrait{
+  float: center;
+  border-style: solid;
+  border-color: navy;
+  border-width: 2px;
+  padding: 2px;
+  margin: 4px;
   height: 70%;
   width: 70%;
 }
